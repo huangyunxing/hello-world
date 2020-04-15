@@ -1,6 +1,6 @@
 # hello-world
 
-hi bicer
+hi bicer!
 
-the is test
- to my fisrt git.
+this is a test
+ to my first git.
