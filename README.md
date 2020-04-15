@@ -1,2 +1,6 @@
 # hello-world
-the test
+
+hi bicer
+
+the is test
+ to my fisrt git.
